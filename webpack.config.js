@@ -1,6 +1,3 @@
-/* eslint-disable n/prefer-global/process */
-/* eslint-disable import/no-anonymous-default-export */
-
 import TerserPlugin from 'terser-webpack-plugin'
 
 export default {
